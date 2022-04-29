@@ -10,5 +10,5 @@
 -   💬  Ask me about Flutter or any tech-related stuff.
 -   📫  How to reach me: [FaceBook](https://facebook.com/aliraza342),  [Twitter](https://twitter.com/AliRaza56949150)  ,  [Youtube](https://youtube.com/channel/UCZP5dc5MAc29zRAq6Y0COoQ)
 
-<b>Languages and Tools:</b>
+<b>Languages and Tools:</b><br>
 <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" height="30px" width="30px">
