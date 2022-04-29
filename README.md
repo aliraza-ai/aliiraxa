@@ -10,8 +10,8 @@
 -   💬  Ask me about Flutter or any tech-related stuff.
 -   📫  How to reach me: [FaceBook](https://facebook.com/aliraza342),  [Twitter](https://twitter.com/AliRaza56949150)  ,  [Youtube](https://youtube.com/channel/UCZP5dc5MAc29zRAq6Y0COoQ)
 
-<b>Languages and Tools:</b>
-
+<b>Languages and Tools:
+</b>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20px" width="20px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="18px" width="18px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="20px" width="20px">
