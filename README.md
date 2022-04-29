@@ -11,5 +11,4 @@
 -   📫  How to reach me: [FaceBook](https://facebook.com/aliraza342),  [Twitter](https://twitter.com/AliRaza56949150)  ,  [Youtube](https://youtube.com/channel/UCZP5dc5MAc29zRAq6Y0COoQ)
 
 ##### Languages and Tools:
-
-<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" height="50px" width="50px">
+<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" height="20px" width="20px">
